@@ -50,13 +50,13 @@ This is crucial for maintaining code integrity, especially in larger projects wh
 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Software engineers commonly face challenges such as:
 
-1. Changing Requirements: Frequent modifications can disrupt development.
+a. Changing Requirements: Frequent modifications can disrupt development.
    Strategy: Adopt Agile methodologies to incorporate regular feedback and adapt quickly.
-2. Technical Debt: Accumulated shortcuts can hinder progress.
+b. Technical Debt: Accumulated shortcuts can hinder progress.
    Strategy: Prioritize refactoring and code reviews to maintain code quality.
-3. Collaboration Issues: Poor communication can lead to misunderstandings.
+c. Collaboration Issues: Poor communication can lead to misunderstandings.
    Strategy: Implement regular meetings and use collaboration tools like Slack or Jira to facilitate clear communication
-4. Debugging Complex Issues: Identifying bugs can be time-consuming.
+d. Debugging Complex Issues: Identifying bugs can be time-consuming.
    Strategy: Utilize comprehensive logging and automated testing to catch issues early.
 
 
